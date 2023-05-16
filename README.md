@@ -1,2 +1,3 @@
-# Secim-Sayac-
-2023 Türkiye seçim sayacı. (2.tur)
+# 2023 2.tur seçim sayacı
+
+Try: secim.mehmet0.repl.co
